@@ -27,7 +27,7 @@ list_of_files = [
     "params.yaml",
     "setup.py",
     "research/trials.ipynb",
-    "data_loader.py"
+    "data_loader.py",
     "model_architecture.py",
     "callbacks.py",
     "train.py",
