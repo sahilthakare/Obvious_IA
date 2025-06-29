@@ -1,0 +1,15 @@
+datasets
+rouge_score
+pandas
+numpy
+PyYAML
+matplotlib
+notebook
+fastapi
+uvicorn
+jinja2==3.1.2
+torch
+torchvision
+tqdm
+setuptools
+
